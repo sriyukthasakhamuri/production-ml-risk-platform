@@ -1,0 +1,14 @@
+pandas<3
+numpy
+scikit-learn
+mlflow
+fastapi
+uvicorn
+pydantic
+psycopg2-binary
+sqlalchemy
+evidently
+joblib
+python-dotenv
+pytest
+httpx
